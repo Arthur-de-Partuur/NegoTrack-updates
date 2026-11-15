@@ -2,5 +2,5 @@
   "version": "0.5.1-alpha",
   "published": "2026-11-06 18:50 CET",
   "summary": "",
-  "dev": { "lastChange": "2026-11-15 20:20 CET", "summary": "Development build reminder; F2 = F.2 in status sheets" }
+  "dev": { "lastChange": "2026-11-15 20:30 CET", "summary": "Automatic saving to the data file fixed" }
 }
