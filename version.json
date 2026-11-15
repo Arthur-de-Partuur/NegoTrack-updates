@@ -2,5 +2,5 @@
   "version": "0.5.1-alpha",
   "published": "2026-11-06 18:50 CET",
   "summary": "",
-  "dev": { "lastChange": "2026-11-15 21:50 CET", "summary": "Standard forms import finds FIDIC, LOGIC and BIMCO clauses" }
+  "dev": { "lastChange": "2026-11-15 22:45 CET", "summary": "Standard forms import reads FIDIC PDFs (margin titles)" }
 }
