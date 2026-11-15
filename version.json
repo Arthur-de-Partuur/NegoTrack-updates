@@ -1,6 +1,6 @@
 {
-  "version": "0.5.1-alpha",
-  "published": "2026-11-06 18:50 CET",
-  "summary": "",
-  "dev": { "lastChange": "2026-11-15 22:47 CET", "summary": "After a reload: reopen the data file from any tab" }
+  "version": "0.6.0-alpha",
+  "published": "2026-11-15 22:48 CET",
+  "summary": "Excel status sheet import, update reminder, standard forms import for FIDIC, LOGIC and BIMCO, data loss guard",
+  "dev": { "lastChange": "2026-11-15 22:48 CET", "summary": "Published as 0.6.0-alpha" }
 }
