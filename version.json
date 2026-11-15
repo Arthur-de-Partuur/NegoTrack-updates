@@ -2,5 +2,5 @@
   "version": "0.5.1-alpha",
   "published": "2026-11-06 18:50 CET",
   "summary": "",
-  "dev": { "lastChange": "2026-11-15 20:35 CET", "summary": "Automatic saving fixed; warning for data files from a newer version" }
+  "dev": { "lastChange": "2026-11-15 20:40 CET", "summary": "Automatic saving fixed; warning for data files from a newer version" }
 }
