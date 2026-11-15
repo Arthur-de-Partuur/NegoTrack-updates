@@ -2,5 +2,5 @@
   "version": "0.5.1-alpha",
   "published": "2026-11-06 18:50 CET",
   "summary": "",
-  "dev": { "lastChange": "2026-11-15 20:45 CET", "summary": "Data loss guard: never saves an empty window over a data file" }
+  "dev": { "lastChange": "2026-11-15 21:40 CET", "summary": "Library shows how many sub-clauses have text" }
 }
