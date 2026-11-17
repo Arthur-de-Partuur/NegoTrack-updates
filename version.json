@@ -2,5 +2,8 @@
   "version": "0.6.0-alpha",
   "published": "2026-11-15 22:48 CET",
   "summary": "Excel status sheet import, update reminder, standard forms import for FIDIC, LOGIC and BIMCO, data loss guard",
-  "dev": { "lastChange": "2026-11-15 22:48 CET", "summary": "Published as 0.6.0-alpha" }
+  "dev": {
+    "lastChange": "2026-11-17 14:42 CET",
+    "summary": "Sort and filter Clauses, edit actions (title + details), full width, foldable History/Timeline, FIDIC import fixes"
+  }
 }
