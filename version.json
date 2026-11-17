@@ -1,9 +1,9 @@
 {
-  "version": "0.6.0-alpha",
-  "published": "2026-11-15 22:48 CET",
-  "summary": "Excel status sheet import, update reminder, standard forms import for FIDIC, LOGIC and BIMCO, data loss guard",
+  "version": "0.7.0-alpha",
+  "published": "2026-11-17 22:59 CET",
+  "summary": "Jump to a clause and part strip; sort and filter Clauses; report fills hot topics from notes, positions and actions; party names; Employer logo and icon (also in report and Overview); edit actions; full width; FIDIC import fixes",
   "dev": {
-    "lastChange": "2026-11-17 22:39 CET",
-    "summary": "Employer logo and icon (also in the report and on the Overview); party names; report fills hot topics from notes, positions and actions; jump to a clause and part strip; sort and filter Clauses; edit actions; full width; FIDIC import fixes"
+    "lastChange": "2026-11-17 22:59 CET",
+    "summary": "Published as 0.7.0-alpha"
   }
 }
