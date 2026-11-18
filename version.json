@@ -3,7 +3,7 @@
   "published": "2026-11-18 18:01 CET",
   "summary": "Several negotiations in separate tabs (warning and paused auto-save for the same one twice); copy settings, logos and participants from another negotiation; Employer logo on dark blue or white; report graphs optional with a Progress graphs heading; fewer PowerPoint slides; greyed Save when nothing to save",
   "dev": {
-    "lastChange": "2026-11-18 18:20 CET",
-    "summary": "Contract file location read from the file; Open in Word / In browser instead of downloading; stay on the tab after adding a version"
+    "lastChange": "2026-11-18 21:17 CET",
+    "summary": "Contract file location read from the file; Open in Word / In browser; stay on the tab after adding a version; sortable actions tables"
   }
 }
