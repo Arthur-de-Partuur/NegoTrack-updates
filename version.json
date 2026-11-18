@@ -1,9 +1,9 @@
 {
-  "version": "0.7.0-alpha",
-  "published": "2026-11-17 22:59 CET",
-  "summary": "Jump to a clause and part strip; sort and filter Clauses; report fills hot topics from notes, positions and actions; party names; Employer logo and icon (also in report and Overview); edit actions; full width; FIDIC import fixes",
+  "version": "0.8.0-alpha",
+  "published": "2026-11-18 18:01 CET",
+  "summary": "Several negotiations in separate tabs (warning and paused auto-save for the same one twice); copy settings, logos and participants from another negotiation; Employer logo on dark blue or white; report graphs optional with a Progress graphs heading; fewer PowerPoint slides; greyed Save when nothing to save",
   "dev": {
-    "lastChange": "2026-11-18 17:51 CET",
-    "summary": "Copy settings, logos and participants from another negotiation; several negotiations in separate tabs, with a warning for the same one twice; report graphs optional, at the end, with a Progress graphs heading; Employer logo on the dark blue band or a white tile (setting); report panes scroll separately; PowerPoint fixes"
+    "lastChange": "2026-11-18 18:01 CET",
+    "summary": "Same as 0.8.0-alpha"
   }
 }
