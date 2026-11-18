@@ -1,9 +1,9 @@
 {
-  "version": "0.8.0-alpha",
-  "published": "2026-11-18 18:01 CET",
-  "summary": "Several negotiations in separate tabs (warning and paused auto-save for the same one twice); copy settings, logos and participants from another negotiation; Employer logo on dark blue or white; report graphs optional with a Progress graphs heading; fewer PowerPoint slides; greyed Save when nothing to save",
+  "version": "0.9.0-alpha",
+  "published": "2026-11-18 22:54 CET",
+  "summary": "Contracts with Word headings (also Word-numbered) read as one clause per heading; asks for the file location (paste Word's Copy path); Open in Word / In browser; sortable actions; smarter action closing; copy project links; stay on tab after adding a version",
   "dev": {
-    "lastChange": "2026-11-18 22:41 CET",
-    "summary": "Contracts with Word headings (also Word-numbered) read as one clause per heading; file location from the file; Open in Word / In browser; sortable actions; smarter action closing; copy project links; asks for the file location (paste Word's Copy path)"
+    "lastChange": "2026-11-18 22:54 CET",
+    "summary": "Same as 0.9.0-alpha"
   }
 }
