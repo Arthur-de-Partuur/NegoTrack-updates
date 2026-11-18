@@ -3,7 +3,7 @@
   "published": "2026-11-17 22:59 CET",
   "summary": "Jump to a clause and part strip; sort and filter Clauses; report fills hot topics from notes, positions and actions; party names; Employer logo and icon (also in report and Overview); edit actions; full width; FIDIC import fixes",
   "dev": {
-    "lastChange": "2026-11-18 15:34 CET",
-    "summary": "Report graphs optional and moved to the end; PowerPoint fixes"
+    "lastChange": "2026-11-18 15:42 CET",
+    "summary": "Report graphs optional and at the end; report panes scroll separately; PowerPoint fixes"
   }
 }
