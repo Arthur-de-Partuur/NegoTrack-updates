@@ -3,7 +3,7 @@
   "published": "2026-11-17 22:59 CET",
   "summary": "Jump to a clause and part strip; sort and filter Clauses; report fills hot topics from notes, positions and actions; party names; Employer logo and icon (also in report and Overview); edit actions; full width; FIDIC import fixes",
   "dev": {
-    "lastChange": "2026-11-18 16:26 CET",
-    "summary": "Several negotiations in separate tabs, with a warning for the same one twice; report graphs optional, at the end, with a Progress graphs heading; Employer logo on the dark blue band; report panes scroll separately; PowerPoint fixes"
+    "lastChange": "2026-11-18 16:42 CET",
+    "summary": "Several negotiations in separate tabs, with a warning for the same one twice; report graphs optional, at the end, with a Progress graphs heading; Employer logo on the dark blue band or a white tile (setting); report panes scroll separately; PowerPoint fixes"
   }
 }
