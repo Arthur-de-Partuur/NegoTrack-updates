@@ -3,7 +3,7 @@
   "published": "2026-11-18 22:54 CET",
   "summary": "Contracts with Word headings (also Word-numbered) read as one clause per heading; asks for the file location (paste Word's Copy path); Open in Word / In browser; sortable actions; smarter action closing; copy project links; stay on tab after adding a version",
   "dev": {
-    "lastChange": "2026-11-18 22:54 CET",
-    "summary": "Same as 0.9.0-alpha"
+    "lastChange": "2026-11-19 13:34 CET",
+    "summary": "Licence: Van Oord internal use permitted (PERMISSION.md)"
   }
 }
