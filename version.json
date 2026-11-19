@@ -1,9 +1,9 @@
 {
-  "version": "0.9.0-alpha",
-  "published": "2026-11-18 22:54 CET",
-  "summary": "Contracts with Word headings (also Word-numbered) read as one clause per heading; asks for the file location (paste Word's Copy path); Open in Word / In browser; sortable actions; smarter action closing; copy project links; stay on tab after adding a version",
+  "version": "0.9.1-alpha",
+  "published": "2026-11-19 14:21 CET",
+  "summary": "Van Oord internal use permitted (PERMISSION.md); repository moved to github.com/VOEnergy/NegoTrack",
   "dev": {
-    "lastChange": "2026-11-19 14:16 CET",
-    "summary": "Licence: Van Oord internal use permitted (PERMISSION.md); repository moved to VOEnergy"
+    "lastChange": "2026-11-19 14:21 CET",
+    "summary": "Same as 0.9.1-alpha"
   }
 }
