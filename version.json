@@ -3,7 +3,7 @@
   "published": "2026-11-19 14:21 CET",
   "summary": "Van Oord internal use permitted (PERMISSION.md); repository moved to github.com/VOEnergy/NegoTrack",
   "dev": {
-    "lastChange": "2026-11-19 17:10 CET",
-    "summary": "Topics tab (briefing per hot topic, notes, current text) and Share hot topics (email/Teams, Word, PDF, PowerPoint, report page)"
+    "lastChange": "2026-11-19 17:52 CET",
+    "summary": "Topics and Share after testing: actions + notes card, edit note, Word/PowerPoint Open or Save as, app logos, file names, packed report cards"
   }
 }
