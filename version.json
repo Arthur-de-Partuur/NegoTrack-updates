@@ -3,7 +3,7 @@
   "published": "2026-11-19 14:21 CET",
   "summary": "Van Oord internal use permitted (PERMISSION.md); repository moved to github.com/VOEnergy/NegoTrack",
   "dev": {
-    "lastChange": "2026-11-25 13:12 CET",
-    "summary": "Fix: part strip jumps to and highlights every part, also the last ones"
+    "lastChange": "2026-11-25 13:13 CET",
+    "summary": "Overview part links open the Clauses list at that part, with the part strip"
   }
 }
