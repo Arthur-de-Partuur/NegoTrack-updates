@@ -3,7 +3,7 @@
   "published": "2026-11-19 14:21 CET",
   "summary": "Van Oord internal use permitted (PERMISSION.md); repository moved to github.com/VOEnergy/NegoTrack",
   "dev": {
-    "lastChange": "2026-11-25 13:48 CET",
-    "summary": "Fix: By clause no. puts 0 Introduction on top, clauses without a number before Z Closing"
+    "lastChange": "2026-11-25 14:05 CET",
+    "summary": "Grouped clause numbers (By clause no.) and topics missing from a new round shown greyed"
   }
 }
