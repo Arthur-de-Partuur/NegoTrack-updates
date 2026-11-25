@@ -3,7 +3,7 @@
   "published": "2026-11-19 14:21 CET",
   "summary": "Van Oord internal use permitted (PERMISSION.md); repository moved to github.com/VOEnergy/NegoTrack",
   "dev": {
-    "lastChange": "2026-11-25 15:56 CET",
-    "summary": "Actions & comments in one tab (To do / All comments), clickable rows, clearer previous/next"
+    "lastChange": "2026-11-25 17:07 CET",
+    "summary": "Read file again finds the file in the project folder by itself; ready to run from a web address."
   }
 }
