@@ -3,7 +3,7 @@
   "published": "2026-11-19 14:21 CET",
   "summary": "Van Oord internal use permitted (PERMISSION.md); repository moved to github.com/VOEnergy/NegoTrack",
   "dev": {
-    "lastChange": "2026-11-25 13:18 CET",
-    "summary": "Fix: document title no longer counted as a clause with numbered paragraphs"
+    "lastChange": "2026-11-25 13:19 CET",
+    "summary": "Fix: clause numbers not repeated in titles; link window lists topics by title"
   }
 }
