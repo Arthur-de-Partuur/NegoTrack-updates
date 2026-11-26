@@ -3,7 +3,7 @@
   "published": "2026-11-26 18:01 CET",
   "summary": "My notes (to-do and in report), Actions & my notes card, notes tab and report page, clause text through the versions, drag handles, Hot topics cards fold and report row editable",
   "dev": {
-    "lastChange": "2026-11-26 18:22 CET",
-    "summary": "Hot topics: orange line under the text card header; cards fold with a click on the header bar."
+    "lastChange": "2026-11-26 18:26 CET",
+    "summary": "Untracked changes warning in the clause text card; click to see what changed without tracking. Hot topics header fixes."
   }
 }
