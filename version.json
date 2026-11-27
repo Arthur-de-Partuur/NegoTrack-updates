@@ -3,7 +3,7 @@
   "published": "2026-11-26 18:01 CET",
   "summary": "My notes (to-do and in report), Actions & my notes card, notes tab and report page, clause text through the versions, drag handles, Hot topics cards fold and report row editable",
   "dev": {
-    "lastChange": "2026-11-27 12:39 CET",
-    "summary": "0.12.0-dev.6: Closed column on Actions and All comments (when, how, which version)."
+    "lastChange": "2026-11-27 12:52 CET",
+    "summary": "0.12.0-dev.7: Closed in version chips; Closed column always shown."
   }
 }
