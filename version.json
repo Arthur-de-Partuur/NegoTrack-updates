@@ -1,9 +1,9 @@
 {
-  "version": "0.11.0-alpha",
-  "published": "2026-11-26 18:01 CET",
-  "summary": "My notes (to-do and in report), Actions & my notes card, notes tab and report page, clause text through the versions, drag handles, Hot topics cards fold and report row editable",
+  "version": "0.12.0-beta",
+  "published": "2026-11-27 13:02 CET",
+  "summary": "First beta: Closed column and Closed in version chips on Actions and All comments, untracked changes stand out, tidier Hot topic and Report cards",
   "dev": {
-    "lastChange": "2026-11-27 12:52 CET",
-    "summary": "0.12.0-dev.7: Closed in version chips; Closed column always shown."
+    "lastChange": "2026-11-27 13:02 CET",
+    "summary": "0.12.0-beta published"
   }
 }
